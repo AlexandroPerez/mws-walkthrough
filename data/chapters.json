@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Phase 1",
+    "videos": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "href": "https://youtu.be/M_tMwX6avtU",
+        "md": "1.1.md"
+      },
+      {
+        "id": 2,
+        "title": "Forking and Cloning Repo",
+        "href": "https://youtu.be/PAVzNLbyl5U",
+        "md": "1.2.md"
+      },
+      {
+        "id": 3,
+        "title": "Running the Server",
+        "href": "https://youtu.be/OF-3Xx__dB0",
+        "md": "1.3.md"
+      },
+      {
+        "id": 4,
+        "title": "Mapbox API key",
+        "href": "https://youtu.be/3bBqRdXrID4",
+        "md": "1.4.md"
+      },
+      {
+        "id": 5,
+        "title": "UI Introduction",
+        "href": "https://youtu.be/uLfRz-3-l9I",
+        "md": "1.5.md"
+      },
+      {
+        "id": 6,
+        "title": "The Mobile First Approach",
+        "href": "https://youtu.be/VZ9d_sGdjmU",
+        "md": "1.6.md"
+      },
+      {
+        "id": 7,
+        "title": "Viewport Meta Tag",
+        "href": "https://youtu.be/c-m5kdgNHlM",
+        "md": "1.7.md"
+      },
+      {
+        "id": 8,
+        "title": "Index - Styling The Header",
+        "href": "https://youtu.be/vuzvaWNB7Ak",
+        "md": "1.8.md"
+      },
+      {
+        "id": 9,
+        "title": "Index - Styling The Map",
+        "href": "https://youtu.be/E-mesTL9Otg",
+        "md": "1.9.md"
+      },
+      {
+        "id": 10,
+        "title": "Index - Styling The Filter Options",
+        "href": "https://youtu.be/IAop85b4J3E",
+        "md": "1.10.md"
+      },
+      {
+        "id": 11,
+        "title": "Index - Styling The Restaurant List",
+        "href": "https://youtu.be/KE0PH13fLhw",
+        "md": "1.11.md"
+      },
+      {
+        "id": 12,
+        "title": "Index - Styling The Footer",
+        "href": "https://youtu.be/5QdXUFMO2dI",
+        "md": "1.12.md"
+      },
+      {
+        "id": 13,
+        "title": "Restaurant - Styling",
+        "href": "https://youtu.be/d5SnNi_TIVI",
+        "md": "1.13.md"
+      },
+      {
+        "id": 14,
+        "title": "Gulp for responsive images",
+        "href": "https://youtu.be/__j4lnU9cbA",
+        "md": "1.14.md"
+      },
+      {
+        "id": 15,
+        "title": "Responsive Images",
+        "href": "https://youtu.be/kFPgerB8H_M",
+        "md": "1.15.md"
+      },
+      {
+        "id": 16,
+        "title": "Making app images responsive",
+        "href": "https://youtu.be/RPSDzg3dvEI",
+        "md": "1.16.md"
+      },
+      {
+        "id": 17,
+        "title": "Making sure app is responsive",
+        "href": "https://youtu.be/FNMl3P7_FlI",
+        "md": "1.17.md"
+      },
+      {
+        "id": 18,
+        "title": "Accessible Images",
+        "href": "https://youtu.be/g6J8r2o91vs",
+        "md": "1.18.md"
+      },
+      {
+        "id": 19,
+        "title": "Implementing focus and skip-links",
+        "href": "https://youtu.be/rptVh4cN0g0",
+        "md": "1.19.md"
+      },
+      {
+        "id": 20,
+        "title": "ARIA semantics and labels",
+        "href": "https://youtu.be/vW9jPLgXTv4",
+        "md": "1.20.md"
+      },
+      {
+        "id": 21,
+        "title": "ARIA links",
+        "href": "https://youtu.be/jKQKavTfvdc",
+        "md": "1.21.md"
+      },
+      {
+        "id": 22,
+        "title": "Aria live regions",
+        "href": "https://youtu.be/9ZBiV1rilXE",
+        "md": "1.22.md"
+      },
+      {
+        "id": 23,
+        "title": "Registering Service Worker and caching static assets",
+        "href": "https://youtu.be/fs7C9rWsgns",
+        "md": "1.23.md"
+      },
+      {
+        "id": 24,
+        "title": "Service Worker - responding with cached assets",
+        "href": "https://youtu.be/eWn1TZI9Y7Q",
+        "md": "1.24.md"
+      },
+      {
+        "id": 25,
+        "title": "Fixing offline mode",
+        "href": "https://youtu.be/7Ng1Xze8N3E",
+        "md": "1.25.md"
+      },
+      {
+        "id": 26,
+        "title": "Service Worker - restaurant requests with parameters",
+        "href": "https://youtu.be/Y0RUJ7S6zEA",
+        "md": "1.26.md"
+      },
+      {
+        "id": 27,
+        "title": "Service Worker - Caching responsive images",
+        "href": "https://youtu.be/HUda-ZjcyWQ",
+        "md": "1.27.md"
+      },
+      {
+        "id": 28,
+        "title": "Handling offline maps with custom content",
+        "href": "https://youtu.be/g_-oNkoNqfU",
+        "md": "1.28.md"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Phase 2",
+    "videos": [
+      {
+        "id": 1,
+        "title": "Cloning and running the rails server",
+        "href": "https://youtu.be/65sXyo6oM3g",
+        "md": "2.1.md"
+      },
+      {
+        "id": 2,
+        "title": "Gulp with Watchify, Browserify, and Browsersync",
+        "href": "https://youtu.be/QM-7T-_kAB8",
+        "md": "2.2.md"
+      },
+      {
+        "id": 3,
+        "title": "Fixing code to work with new Gulp setup",
+        "href": "https://youtu.be/WmKqiLKHknM",
+        "md": "2.3.md"
+      },
+      {
+        "id": 4,
+        "title": "Fetching data from the sails API server",
+        "href": "https://youtu.be/GlBA6ICyvp4",
+        "md": "2.4.md"
+      },
+      {
+        "id": 5,
+        "title": "Setting up IndexedDB Promised for offline use",
+        "href": "https://youtu.be/zEhxSCTAbFs",
+        "md": "2.5.md"
+      },
+      {
+        "id": 6,
+        "title": "Enabling service worker, and getting a good PWA score",
+        "href": "https://youtu.be/_SY8BqNkn3Y",
+        "md": "2.6.md"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Phase 3",
+    "videos": [
+      {
+        "id": 1,
+        "title": "Getting reviews from new Sails Server",
+        "href": "https://youtu.be/wJg_gynKZPw",
+        "md": "3.1.md"
+      },
+      {
+        "id": 2,
+        "title": "Upgrading idb for restaurant reviews",
+        "href": "https://youtu.be/UWln_qClJl4",
+        "md": "3.2.md"
+      },
+      {
+        "id": 3,
+        "title": "Favorite restaurants using accessible toggle buttons",
+        "href": "https://youtu.be/L6D-44NO92Q",
+        "md": "3.3.md"
+      },
+      {
+        "id": 4,
+        "title": "Adding a form for new reviews",
+        "href": "https://youtu.be/-xWh8JeUt1k",
+        "md": "3.4.md"
+      },
+      {
+        "id": 5,
+        "title": "The ultimate challenge",
+        "href": "https://youtu.be/DXvgPgbole4",
+        "md": "3.5.md"
+      }
+    ]
+  }
+]
