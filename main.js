@@ -203,6 +203,26 @@ function embedVideo(video) {
     const html = converter.makeHtml(text);
     mdContainer.innerHTML = html;
 
+    warning = document.createElement('div');
+    warning.id = 'warning';
+    warning.innerHTML = `
+    <h2>Please don't just copy and paste, is for your own benefit.</h2>
+    <p>I created this walkthrough to help fellow classmates get closer to the finish line, while providing an explanation of what the provided code does. That's why I suggested in the walkthrough to add comments in your code explaining, in your own words, what the code does.</p>
+    <h2>Let your reviewers know you're using this walkthrough</h2>
+    <p>If you're going to use this walkthrough, it is your responsibility, as <a href="https://udacity.zendesk.com/hc/en-us/articles/360001451091-What-is-plagiarism-">stated by the Udacity guidelines</a>, to let your reviewers know that you used code from this walkthrough.</p>
+    <h2>This walkthrough only covers part of the project</h2>
+    <p>It's worth noting that there is not enough code for the whole project to be completed. The following has to be completed by you:</p>
+    <ul>
+    <li>Styling and fixing GUI issues on your app</li>
+    <li>Implement image lazy loading</li>
+    <li>Handling offline maps</li>
+    <li>Marking of Restaurant as favorite while offline</li>
+    <li>Adding new reviews while offline</li>
+    </ul>
+    <p>The last 2 are the hardest requirements, but if you followed the walkthrough, you'll know enough to complete them on your own.</p>
+    `;
+    mdContainer.appendChild(warning);
+
     starOnGithub = document.createElement('div');
     starOnGithub.id = 'star-github';
     starOnGithub.innerHTML = `<p>If you find this walkthrough helpful, please take a moment to <a href="https://github.com/AlexandroPerez/mws-walkthrough" target="_blank">star&nbsp;it&nbsp;on&nbsp;GitHub</a>&nbsp;😉</p>`;
@@ -242,7 +262,7 @@ function clearContent(video) {
 
   const content = document.getElementById('content');
   content.innerHTML = "";
-  
+
   content.appendChild(githubButton);
 
   const h2 = document.createElement('h2');
